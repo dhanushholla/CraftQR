@@ -1,7 +1,7 @@
 # 🎨 Craft QR
 
 Generate stunning, personalized QR codes that don't just *work*—they *wow*! 🌟 This project is built with React and Tailwind CSS, so it’s responsive, accessible, and just plain awesome!
-
+Try @ https://craftqr-kappa.vercel.app/
 ## 🚀 Features
 
 ✨ **Type Anything!** Your secret link, your website, or your grandma’s favorite recipe—QR code it all!  
