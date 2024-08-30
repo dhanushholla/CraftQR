@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import './App.css'
-import Myloader from './components/MyLoader'
+import Myloader from './components/Myloader'
 import QRCodeGenerator from './components/QRCodeGenerator'
 import ErrorBoundary from './ErrorBoundary'
 
